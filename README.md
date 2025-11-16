@@ -68,7 +68,7 @@ This will launch the MCP server that bridges communication between ChatGPT and y
 
 ### 5. Connect MCP to ChatGPT
 
-Follow the official [OpenAI Apps SDK documentation](https://platform.openai.com/) to connect your MCP server to ChatGPT. This typically involves:
+Follow the official [OpenAI Apps SDK documentation](https://developers.openai.com/apps-sdk) to connect your MCP server to ChatGPT. This typically involves:
 
 - Configuring the MCP endpoint in your ChatGPT settings
 - Authenticating the connection
