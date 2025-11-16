@@ -1,5 +1,5 @@
-name: product_feed_demo_for_chatgpt
-description: A Very Good Project created by Very Good CLI.
+name: credit_card_providers_demo
+description: A demo of credit card providers.
 version: 1.0.0+1
 publish_to: none
 
@@ -11,7 +11,7 @@ dependencies:
   bloc: ^9.0.1
   flutter:
     sdk: flutter
-  flutter_bloc: ^9.1.1
+
   flutter_localizations:
     sdk: flutter
   intl: ^0.20.2
